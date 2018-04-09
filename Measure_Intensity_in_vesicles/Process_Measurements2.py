@@ -14,8 +14,9 @@ import glob
 import random
 import seaborn as sns
 import matplotlib.ticker as ticker
+import os
 from scipy.stats import ttest_ind
-plt.rcParams["figure.figsize"] = (12,8)
+
 
 datapath0 = os.path.dirname(__file__)
 
@@ -23,7 +24,7 @@ datapath = datapath0+"/Measurements/"
 
 dirnames = ["WT", "KO"]
 
-
+plt.rcParams["figure.figsize"] = (12,8)
 list1 = []
 
 # gather all files in the directroy "savepath"
