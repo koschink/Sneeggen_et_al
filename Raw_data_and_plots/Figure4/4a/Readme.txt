@@ -1,0 +1,1 @@
+Proteome data used to generate the volcano plot in Figure 4a, columns labels S1 and S2 represent "Control" and "GFP-WDFY2" conditions.
