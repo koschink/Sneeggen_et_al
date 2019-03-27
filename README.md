@@ -1,5 +1,5 @@
 # Sneeggen_et_al
-
+Software scripts and raw data from our publication "WDFY2 restrains matrix metalloproteinase secretion and cell invasion by controlling VAMP3-dependent recycling".
 
 Supplied in the Image_Processing subfolder are image and postprocessing analysis scripts. 
 
@@ -31,3 +31,9 @@ Pandas (0.23.4)
 MatplotLib (3.0.2)
 Seaborn 0.9 (install latest version via PIP)
 Scipy-Stats (1.1.0)
+
+
+The software here is licensed by the Creative Commons CC BY-SA licence. If you find it useful in your research, please cite our manuscript.
+
+For questions and comments, please contact kay.oliver.schink@rr-research.no
+
